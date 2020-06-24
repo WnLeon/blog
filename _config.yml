@@ -16,7 +16,7 @@ baseurl:          '/blog'
 
 author:
   name:           'wun'
-  url:            https://ggbang.club
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
