@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            wun's blog
+title:            吴楠的Blog
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://wun.github.io
-baseurl:          '/wun.github.io'
+description:      '一个技术狗的博客'
+url:              https://wuxnan.github.io/blog/
+baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -16,7 +16,7 @@ baseurl:          '/wun.github.io'
 
 author:
   name:           'wun'
-  url:            https://twitter.com/fongandrewc
+  url:            https://ggbang.club
 
 paginate:         5
 # paginate_path:    '/page:num'
