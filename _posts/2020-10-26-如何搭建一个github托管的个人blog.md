@@ -61,16 +61,12 @@ excerpt_separator: <!--more-->
 
 ### 上传主题
 回到刚才创建的仓库。然后点击Upload。(当然也可以使用git，这里为了对大白们友好点。。)
-
 ![image_12](../_includes/svg/image_12.png)
-
 直接将我们的文件拖进去。(不要在外面套文件夹！！)传完之后，点击下方的commit changes
-
 ### 查看主题
  然后就可以访问username.github.io(username是你在github上的用户名)查看自己的博客啦。
 展示一下我的lj博客(表示换了几次之后更喜欢简洁点的)。。
 ![image_13](../_includes/svg/image_13.png)
-
 
 ### 更新博客
 终于到了重头戏啦。。。下面将如何在浏览器上直接更新博客。并不需要去github上传文件。
