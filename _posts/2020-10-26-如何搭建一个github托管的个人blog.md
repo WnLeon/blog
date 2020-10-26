@@ -2,8 +2,8 @@
 layout: post
 title: "搭建一个github托管的blog"
 categories: home
-tags: - blog
-      - github
+tags: blog
+      github
 excerpt_separator: <!--more-->
 ---
 
