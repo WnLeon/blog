@@ -23,11 +23,11 @@ paginate:         5
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-# Sidebar link settings
+    #  - jekyll-feed
+    #  - jekyll-gist
+    #  - jekyll-paginate
+  #
+  ## Sidebar link settings
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
