@@ -1,5 +1,5 @@
 ---
-layout: _post
+layout: HOME
 title: ggbang
 -------------
  ## 自用网页导航
