@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            吴楠的Blog
+title:            Leon's blog
 tagline:          'A Jekyll theme'
-description:      '一个技术狗的博客'
-url:              https://wuxnan.github.io/blog/
+description:      '云淡风轻，闲庭信步'
+url:              https://wnleon.github.io/blog/
 baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,7 +15,7 @@ baseurl:          '/blog'
                   # sidebar_blog_link below.
 
 author:
-  name:           'wun'
+  name:           'leon'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
