@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Leon's blog
-tagline:          ' - '
+tagline:          ''
 description:      '云淡风轻，闲庭信步'
 url:              https://wnleon.github.io/blog/
 baseurl:          '/blog'
