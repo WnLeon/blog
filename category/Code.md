@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "code"
+title: "Code"
 excerpt_separator: <!--more-->
 --- 
 
