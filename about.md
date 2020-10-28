@@ -3,11 +3,16 @@ layout: page
 title: About
 sidebar_link: true
 ---
-[~~You have to belong your own dreams~~]()
-<p class="message">
-1、冒险又没有年龄限制。\
-2、见好就收，不行就撤。\
-3、其实你可以，只是你太懒。\
+
+
+[~~You have to belong your own dreams ~~]()
+
+
+1、冒险又没有年龄限制。
+
+2、见好就收，不行就撤。
+
+3、其实你可以，只是你太懒。
 
 4、你就是比别人聪明！
 
@@ -62,4 +67,4 @@ sidebar_link: true
 29、如果你把今天当做人生的最后一天，你的很多想法都会改变！
 
 30、茫然看不到结果的时候会做的事，做到看得到结果为止。
-</p>
+
