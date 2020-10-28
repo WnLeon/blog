@@ -5,11 +5,9 @@ sidebar_link: true
 ---
 [~~You have to belong your own dreams~~]()
 <p class="message">
-1、冒险又没有年龄限制。
-
-2、见好就收，不行就撤。
-
-3、其实你可以，只是你太懒。
+1、冒险又没有年龄限制。\
+2、见好就收，不行就撤。\
+3、其实你可以，只是你太懒。\
 
 4、你就是比别人聪明！
 
