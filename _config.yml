@@ -16,7 +16,7 @@ baseurl:          '/blog'
 
 author:
   name:           'leon'
-  url:            https://twitter.com/fongandrewc
+  url:            https://www.anchnet.com/
 
 paginate:         5
 # paginate_path:    '/page:num'
