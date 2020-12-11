@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL删除root用户后恢复 "
 categories: home
-tags: " "
+tags: "mysql "
 excerpt_separator: <!--more-->
 --- 
 
