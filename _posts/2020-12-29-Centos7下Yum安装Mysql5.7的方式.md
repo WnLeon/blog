@@ -6,11 +6,10 @@ tags: "mysql "
 excerpt_separator: <!--more-->
 --- 
 
-
-<!--more-->
 centos7 yum安装mysql5.7
+<!--more-->
 
-## 官方源：
+### 官方源：
 ```
 wget -i -c http://dev.mysql.com/get/mysql57-community-release-el7-10.noarch.rpm
 yum -y install mysql57-community-release-el7-10.noarch.rpm
@@ -18,7 +17,7 @@ yum -y install mysql-community-server
 ```
 
 
-## 国内阿里源：
+### 国内阿里源：
 ```
 wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
 yum makecache
@@ -43,7 +42,7 @@ service mysqld.service restart
 
 grep 'temporary password' /var/log/mysqld.log
 ```
-## 国内腾讯源：
+### 国内腾讯源：
 ```
 vim /etc/yum.repos.d/mysql-community.repo
 
